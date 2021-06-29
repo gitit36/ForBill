@@ -6,6 +6,8 @@ The following .ipynb file is the solution to the problem you posted on Twitter.
 
 The .ipynb does not display the results on github. This is because I purposefully exported the file before producing any output so that I can limit the uploadable file size.
 
+The PDF is also not exportable due to the interactive graphs I produced witin the file.
+
 So please download the file and run it on your jupyter notebook or a personal machine to see the results.
 
 To download some of the libraries, please type the command below on your notebook cell. Otherwise, you can just exclude the leading exclamation mark and run the rest on termminal.
