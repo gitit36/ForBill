@@ -11,9 +11,9 @@ The PDF is also not exportable due to the interactive graphs I produced witin th
 So please download the file and run it on your jupyter notebook or a personal machine to see the results.
 
 To download some of the libraries, please type the command below on your notebook cell. Otherwise, you can just exclude the leading exclamation mark and run the rest on termminal.
-'''
+''
 !pip install dtale
-'''
+''
 '''
 !pip install pandas
 '''
